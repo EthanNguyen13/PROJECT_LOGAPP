@@ -1,0 +1,6 @@
+{
+  "name": "Logistics Manager",
+  "description": "Logistics Management dashboard with cargo tracking, multi-shipment consolidation/de-consolidation, activity-based charge auditing, and live driver delivery simulation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
