@@ -9,7 +9,7 @@ export default defineConfig(() => {
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
-    base: '/PROJECT_LOGAPP/', 
+    base: 'PROJECT_LOGAPP', 
       },
     },
     server: {
